@@ -1,0 +1,25 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Generator of readme.md file in markdown for github through simple semantics in JSON.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtToledo/readme-generator.git"
+  },
+  "keywords": [
+    "Markdown",
+    "generator",
+    "json",
+    "readme"
+  ],
+  "author": "Arthur Toledo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtToledo/readme-generator/issues"
+  },
+  "homepage": "https://github.com/ArtToledo/readme-generator#readme"
+}
