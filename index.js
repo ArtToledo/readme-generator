@@ -14,13 +14,13 @@ while(runQuestion) {
     ||                                                            ||
     || Escolha uma das opções abaixo para adicionar ao arquivo:   ||
     ||                                                            ||
-    ||   h1        p_final          nested_blockquotes            ||
-    ||   h2        p                unordered_list_item           ||
-    ||   h3        strong           unordered_list_idented_item   ||
-    ||   h4        italic           image                         ||
-    ||   h5        strong_italic    link                          ||
-    ||   h6        blockquotes      break_line                    ||
-    ||                              sair                          ||
+    ||  h1        p                   unordered_list_idented_item ||
+    ||  h2        strong              image                       ||
+    ||  h3        italic              link                        ||
+    ||  h4        strong_italic       break_line                  ||
+    ||  h5        blockquotes         sair                        ||
+    ||  h6        nested_blockquotes                              ||
+    ||  p_final   unordered_list_item                             ||
     ||                                                            ||
      ==============================================================
   `);
