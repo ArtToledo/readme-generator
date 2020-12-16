@@ -24,10 +24,10 @@ while(runQuestion) {
     ||                                                            ||
      ==============================================================
   `);
-  const optionChoose = prompt('Digite o item a sua escolha: ');
+  const optionChoose = prompt('Enter the item of your choice: ');
   const functionTransformer = read_properties(transformer, optionChoose);
   
-  if (optionChoose === 'sair' || optionChoose === 'Sair') {
+  if (optionChoose === 'exit' || optionChoose === 'Exit') {
     runQuestion = false;
     break;
   }
